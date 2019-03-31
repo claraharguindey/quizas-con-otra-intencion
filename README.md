@@ -1,4 +1,4 @@
-# quizas-con-otra-intencion
+# quizs-con-otra-intención
 
 created with https://trackingjs.com
 
