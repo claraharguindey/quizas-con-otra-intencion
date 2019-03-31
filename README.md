@@ -1,4 +1,4 @@
-# quizs-con-otra-intención
+# quizás-con-otra-intención
 ## https://claraharguindey.github.io/quizas-con-otra-intencion/
 created with https://trackingjs.com
 
