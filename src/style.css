@@ -1,0 +1,12 @@
+#fps{
+  display: none;
+}
+.text {
+  position: absolute;
+  bottom: 0;
+  text-align: right;
+  min-width: 95vw;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  padding:30px;
+}
